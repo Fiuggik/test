@@ -136,9 +136,7 @@ export default function Home() {
       width: '100%',
       height: '100%',
       // Удалили backgroundImage: 'url(/image/fonrocket.png)'
-      backgroundImage: `linear-gradient(to bottom, #222222, #111111, #222222), 
-                        linear-gradient(to right, #222222, #555555, #222222), 
-                        linear-gradient(to bottom, transparent, #FF0000, transparent)`, // Red accent at bottom
+      background: 'linear-gradient(to right, #000080, #ffffff)',
       backgroundSize: 'cover',
       backgroundAttachment: 'fixed',
       // Добавлено свойство для глянца
