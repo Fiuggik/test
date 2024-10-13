@@ -154,7 +154,7 @@ export default function Home() {
       transform: 'translateX(-50%)',
       width: '90%',
       height: '20%',
-      background: 'linear-gradient(to top, #2980b9, #6dd5fa, #c0ffff)',
+      background: '#000000',
       
       borderRadius: '20px',
       boxShadow: '0 4px 8px rgba(0, 0, 0, 0.2)',
